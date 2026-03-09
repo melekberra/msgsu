@@ -1,0 +1,47 @@
+body {
+        width: 90%;
+        margin: auto;
+        background-color: rgba(177, 206, 236, 0.979);
+        padding: 50px;
+}
+ul {
+        background-color: #4b7e79;
+        color: rgb(57, 45, 22);
+        padding: 30px;
+}
+p{
+        color: rgb(28, 81, 64);
+        font-size: 20px;
+}
+.clr{
+        color: rgb(6, 77, 10);
+}
+.italic{
+        font-style: italic;
+        color: rgb(67, 117, 18);
+}
+.main-content{
+        width: 70%;
+        float: left;
+        padding: 20px;
+}
+.bold{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: xx-large;
+        color: rgb(14, 14, 70);
+}
+.bold2{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: large;
+        color: rgb(14, 14, 70);
+}
+ .Oswald {
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+      }
+.pdiv {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: medium;
+        color: rgb(21, 3, 58);
+}
